@@ -1,0 +1,14 @@
+- "WebApi: Action executed - POST" - 00:00:01.2829070
+-- "Instantiate 'Telerik.Sitefinity.Personalization.Impl.PersonalizationManager' providers" - 00:00:00.3126325
+--- "Extend metadata container. Module: (Telerik.Sitefinity.Personalization.Impl.Data.OpenAccessPersonalizationDataProvider)." - 00:00:00.2335557
+---- "Update meta data. MetadataSource: PersonalizationFluentMetadataSource" - 00:00:00.2335295
+----- "Aggregation" - 00:00:00.1565599
+------ "Extend" - 00:00:00.1565570
+------- "Prepare mappings for PersonalizationFluentMetadataSource" - 00:00:00.0104502
+------- "Unknown" - 00:00:00.1461068
+----- "ReplaceMetadata" - 00:00:00.0766752
+----- "Upgrade provider" - 00:00:00.0002146
+--- "Unknown" - 00:00:00.0790768
+-- "Load Workflow for path: ~/DefaultWorkflows/PagesApprovalWorkflow.xamlx" - 00:00:00.7422165
+-- "Unknown" - 00:00:00.2280580
+Total: 00:00:01.2829070
