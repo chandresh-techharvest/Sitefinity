@@ -1,118 +1,31 @@
 ----------------------------------------
-ActivityId: d9f44036-fcdc-4090-a48c-5e04671fd822
+ActivityId: d89eb050-e120-47cd-bb42-0b391528bc40
 
-Timestamp: 6/13/2022 11:24:10 AM
+Timestamp: 6/23/2022 9:35:29 AM
 
-Message: HandlingInstanceID: dd619b6f-2e7d-43b9-b2d7-fb19fe9401dd
-An exception of type 'Telerik.Sitefinity.Utilities.MS.ServiceModel.Web.WebProtocolException' occurred and was caught.
----------------------------------------------------------------------------------------------------------------------
-06/13/2022 16:54:10
-Type : Telerik.Sitefinity.Utilities.MS.ServiceModel.Web.WebProtocolException, Telerik.Sitefinity.Utilities, Version=14.1.7824.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
-Message : Unauthorized
-Source : Telerik.Sitefinity
-Help link : 
-StatusCode : Unauthorized
-StatusDescription : Unauthorized
-IsDetailXhtml : True
-Data : System.Collections.ListDictionaryInternal
-TargetSite : Void RequestAuthentication(System.Func`2[Telerik.Sitefinity.Security.SitefinityIdentity,System.Boolean])
-HResult : -2146233087
-detailWriterInstance : Telerik.Sitefinity.Utilities.MS.ServiceModel.Web.WebProtocolException+StringDetailWriter
-Stack Trace :    at Telerik.Sitefinity.Web.Services.ServiceUtility.RequestAuthentication(Func`2 isForbidden)
-   at ServiceStack.RequestFilterAttribute.RequestFilter(IRequest req, IResponse res, Object requestDto) in C:\BuildAgent\work\3481147c480f4a2f\src\ServiceStack\RequestFilterAttribute.cs:line 29
-   at ServiceStack.Host.ServiceRunner`1.<ExecuteAsync>d__15.MoveNext() in C:\BuildAgent\work\3481147c480f4a2f\src\ServiceStack\Host\ServiceRunner.cs:line 126
-
-Additional Info:
-
-MachineName : LAPTOP-I8FOB9EQ
-TimeStamp : 6/13/2022 11:24:10 AM
-FullName : Telerik.Sitefinity.Utilities, Version=14.1.7824.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
-AppDomainName : /LM/W3SVC/2/ROOT-1-132995847660280715
-ThreadIdentity : Anonymous
-WindowsIdentity : LAPTOP-I8FOB9EQ\tekch
-Requested URL : https://localhost:5001/RestApi/adminapp/log-webclient-error?sf_site=e5611185-ee85-48d0-841f-32d38615eacf
-
+Message: Anti XSRF token failed validation. Cookie value differs. Url: https://localhost:44349/Sitefinity/Login?err=true&ReturnUrl=https%3a%2f%2flocalhost%3a44349%2fsitefinity; Referrer: https://localhost:44349/Sitefinity/Login?err=true&ReturnUrl=https%3a%2f%2flocalhost%3a44349%2fsitefinity; Origin: https://localhost:44349; User: 00000000-0000-0000-0000-000000000000.
 
 Category: ErrorLog
 
-Priority: 0
+Priority: -1
 
-EventId: 90000
+EventId: 1
 
-Severity: Error
+Severity: Information
 
-Title:Enterprise Library Exception Handling
+Title:
 
 Machine: LAPTOP-I8FOB9EQ
 
-App Domain: /LM/W3SVC/2/ROOT-1-132995847660280715
+App Domain: /LM/W3SVC/2/ROOT-1-133004391944571976
 
-ProcessId: 29268
+ProcessId: 15656
 
 Process Name: C:\Program Files\IIS Express\iisexpress.exe
 
 Thread Name: 
 
-Win32 ThreadId:46780
-
-Extended Properties: 
-----------------------------------------
-----------------------------------------
-ActivityId: c359a576-8c7a-41cc-95b0-b270f8722f70
-
-Timestamp: 6/13/2022 12:38:35 PM
-
-Message: HandlingInstanceID: 967d00fe-a0c8-41b5-a855-cf6b3f40c660
-An exception of type 'Telerik.Sitefinity.Utilities.MS.ServiceModel.Web.WebProtocolException' occurred and was caught.
----------------------------------------------------------------------------------------------------------------------
-06/13/2022 18:08:35
-Type : Telerik.Sitefinity.Utilities.MS.ServiceModel.Web.WebProtocolException, Telerik.Sitefinity.Utilities, Version=14.1.7824.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
-Message : Unauthorized
-Source : Telerik.Sitefinity
-Help link : 
-StatusCode : Unauthorized
-StatusDescription : Unauthorized
-IsDetailXhtml : True
-Data : System.Collections.ListDictionaryInternal
-TargetSite : Void RequestAuthentication(System.Func`2[Telerik.Sitefinity.Security.SitefinityIdentity,System.Boolean])
-HResult : -2146233087
-detailWriterInstance : Telerik.Sitefinity.Utilities.MS.ServiceModel.Web.WebProtocolException+StringDetailWriter
-Stack Trace :    at Telerik.Sitefinity.Web.Services.ServiceUtility.RequestAuthentication(Func`2 isForbidden)
-   at ServiceStack.RequestFilterAttribute.RequestFilter(IRequest req, IResponse res, Object requestDto) in C:\BuildAgent\work\3481147c480f4a2f\src\ServiceStack\RequestFilterAttribute.cs:line 29
-   at ServiceStack.Host.ServiceRunner`1.<ExecuteAsync>d__15.MoveNext() in C:\BuildAgent\work\3481147c480f4a2f\src\ServiceStack\Host\ServiceRunner.cs:line 126
-
-Additional Info:
-
-MachineName : LAPTOP-I8FOB9EQ
-TimeStamp : 6/13/2022 12:38:35 PM
-FullName : Telerik.Sitefinity.Utilities, Version=14.1.7824.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
-AppDomainName : /LM/W3SVC/2/ROOT-1-132995968550432884
-ThreadIdentity : Anonymous
-WindowsIdentity : LAPTOP-I8FOB9EQ\tekch
-Requested URL : https://localhost:5001/RestApi/adminapp/log-webclient-error?sf_site=e5611185-ee85-48d0-841f-32d38615eacf
-
-
-Category: ErrorLog
-
-Priority: 0
-
-EventId: 90000
-
-Severity: Error
-
-Title:Enterprise Library Exception Handling
-
-Machine: LAPTOP-I8FOB9EQ
-
-App Domain: /LM/W3SVC/2/ROOT-1-132995968550432884
-
-ProcessId: 47248
-
-Process Name: C:\Program Files\IIS Express\iisexpress.exe
-
-Thread Name: 
-
-Win32 ThreadId:1420
+Win32 ThreadId:54672
 
 Extended Properties: 
 ----------------------------------------

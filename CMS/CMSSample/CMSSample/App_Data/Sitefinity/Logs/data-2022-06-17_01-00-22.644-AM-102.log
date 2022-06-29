@@ -1,0 +1,20 @@
+- "Prepare mappings for FormsMetadataSource" - 00:00:00.4794899
+-- "Create meta cache" - 00:00:00.2271247
+-- "Unknown" - 00:00:00.2523652
+- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Forms.Data.OpenAccessFormsProvider)." - 00:00:00.0962708
+-- "Update meta data. MetadataSource: CombinedMetadataSource" - 00:00:00.0962384
+--- "Aggregation" - 00:00:00.0274395
+---- "Extend" - 00:00:00.0274376
+----- "Prepare mappings for CombinedMetadataSource" - 00:00:00.0274299
+--- "Unknown" - 00:00:00.0687989
+- "Instantiate 'Telerik.Sitefinity.Modules.Newsletters.NewslettersManager' providers" - 00:00:00.7721874
+-- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Newsletters.Data.OpenAccessNewslettersDataProvider)." - 00:00:00.5888454
+--- "Update meta data. MetadataSource: NewsletterMetadataSource" - 00:00:00.5887773
+---- "Aggregation" - 00:00:00.4543972
+----- "Extend" - 00:00:00.4543928
+------ "Prepare mappings for NewsletterMetadataSource" - 00:00:00.1343454
+------ "Unknown" - 00:00:00.3200474
+---- "ReplaceMetadata" - 00:00:00.1335023
+---- "Upgrade provider" - 00:00:00.0005926
+-- "Unknown" - 00:00:00.1833420
+Total: 00:00:01.3479481

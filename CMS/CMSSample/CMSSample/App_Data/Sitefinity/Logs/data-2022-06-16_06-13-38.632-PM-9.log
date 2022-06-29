@@ -1,0 +1,20 @@
+- "Prepare mappings for WorfklowMetadataSource" - 00:00:00.1886488
+- "Prepare mappings for ContentLinksMetadataSource" - 00:00:00.0128988
+- "Prepare mappings for TaxonomyMetadataSource" - 00:00:00.0188651
+- "Prepare mappings for ContentLocationsMetadataSource" - 00:00:00.0132373
+- "Prepare mappings for VersioningMetadataSource" - 00:00:00.0162543
+- "Prepare mappings for OutputCacheRelationsMetadataSource" - 00:00:00.0150463
+- "Prepare mappings for NotificationsFluentMetadataSource" - 00:00:00.0091183
+- "Prepare mappings for StatisticsFluentMetadataSource" - 00:00:00.0040171
+- "Prepare mappings for CommentsFluentMetadataSource" - 00:00:00.0045051
+- "Prepare mappings for NewsMetadataSource" - 00:00:00.0703587
+- "Prepare mappings for BlogsMetadataSource" - 00:00:00.0146223
+- "Extend metadata container. Module: (Telerik.Sitefinity.Taxonomies.Data.OpenAccessTaxonomyProvider)." - 00:00:00.6929890
+-- "Update meta data. MetadataSource: CombinedMetadataSource" - 00:00:00.6928791
+--- "Aggregation" - 00:00:00.4708234
+---- "Extend" - 00:00:00.4708159
+----- "Prepare mappings for CombinedMetadataSource" - 00:00:00.0485535
+----- "Unknown" - 00:00:00.4222624
+--- "ReplaceMetadata" - 00:00:00.2218123
+--- "Upgrade provider" - 00:00:00.0000061
+Total: 00:00:01.0605611

@@ -931,11 +931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\2022\\Progress\\Code\\Core Renderer\\Renderer\\Renderer\\Renderer.csproj",
+      "projectUniqueName": "E:\\Projects\\2022\\Progress\\Code\\Core\\Core Renderer\\Renderer\\Renderer\\Renderer.csproj",
       "projectName": "Renderer",
-      "projectPath": "E:\\Projects\\2022\\Progress\\Code\\Core Renderer\\Renderer\\Renderer\\Renderer.csproj",
+      "projectPath": "E:\\Projects\\2022\\Progress\\Code\\Core\\Core Renderer\\Renderer\\Renderer\\Renderer.csproj",
       "packagesPath": "C:\\Users\\tekch\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\2022\\Progress\\Code\\Core Renderer\\Renderer\\Renderer\\obj\\",
+      "outputPath": "E:\\Projects\\2022\\Progress\\Code\\Core\\Core Renderer\\Renderer\\Renderer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

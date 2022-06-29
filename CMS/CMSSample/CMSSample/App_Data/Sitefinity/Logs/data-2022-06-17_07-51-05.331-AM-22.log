@@ -1,0 +1,13 @@
+- "WebApi: Action executed - GET" - 00:00:00.7760341
+-- "Instantiate 'Telerik.Sitefinity.MobileFormats.MobileFormatsManager' providers" - 00:00:00.5767653
+--- "Extend metadata container. Module: (Telerik.Sitefinity.MobileFormats.Data.OpenAccessMobileFormatsDataProvider)." - 00:00:00.4511664
+---- "Update meta data. MetadataSource: MobileFormatsMetadataSource" - 00:00:00.4511329
+----- "Aggregation" - 00:00:00.2576684
+------ "Extend" - 00:00:00.2576645
+------- "Prepare mappings for MobileFormatsMetadataSource" - 00:00:00.0255986
+------- "Unknown" - 00:00:00.2320659
+----- "ReplaceMetadata" - 00:00:00.1930989
+----- "Upgrade provider" - 00:00:00.0002690
+--- "Unknown" - 00:00:00.1255989
+-- "Unknown" - 00:00:00.1992688
+Total: 00:00:00.7760341

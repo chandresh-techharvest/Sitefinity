@@ -1,0 +1,27 @@
+- "WebApi: Executing a batch request" - 00:00:00.7109498
+-- "WebApi: Action executed - POST" - 00:00:00.6225527
+--- "WebApi: transforming request value" - 00:00:00.0041770
+--- "WebApi: Creating an item" - 00:00:00.5615988
+---- "WebApi: Executing workflow operation - SaveDraft" - 00:00:00.2884902
+----- "Message Workflow" - 00:00:00.2884821
+------ "Run workflow activity" - 00:00:00.2883582
+---- "Unknown" - 00:00:00.2731086
+--- "WebApi: Transforming database value" - 00:00:00.0537550
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000108
+---- "WebApi: Getting calculated property value - EventStartUtcOffset" - 00:00:00.0010512
+---- "WebApi: Getting calculated property value - EventEndUtcOffset" - 00:00:00.0000315
+---- "WebApi: Getting calculated property value - EventStartWithOffset" - 00:00:00.0007875
+---- "WebApi: Getting calculated property value - EventEndWithOffset" - 00:00:00.0000063
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000621
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000088
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000105
+---- "WebApi: Getting calculated property value - Comments" - 00:00:00.0271178
+---- "WebApi: Getting calculated property value - LockedStatus" - 00:00:00.0044326
+---- "WebApi: Getting calculated property value - DisplayStatus" - 00:00:00.0050144
+---- "WebApi: Getting calculated property value - FirstPublished" - 00:00:00.0034065
+---- "WebApi: Getting calculated property value - LastPublished" - 00:00:00.0023960
+-- "WebApi: Action executed - POST" - 00:00:00.0723205
+--- "WebApi: Executing workflow operation - Publish" - 00:00:00.0636837
+---- "Message Workflow" - 00:00:00.0636784
+----- "Run workflow activity" - 00:00:00.0636248
+Total: 00:00:00.7109498

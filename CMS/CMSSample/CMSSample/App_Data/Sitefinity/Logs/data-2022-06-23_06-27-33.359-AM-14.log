@@ -1,0 +1,17 @@
+- "Prepare mappings for FormsMetadataSource" - 00:00:00.1047085
+- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Forms.Data.OpenAccessFormsProvider)." - 00:00:00.0681990
+-- "Update meta data. MetadataSource: CombinedMetadataSource" - 00:00:00.0681720
+--- "Aggregation" - 00:00:00.0460539
+---- "Extend" - 00:00:00.0460524
+----- "Prepare mappings for CombinedMetadataSource" - 00:00:00.0460473
+- "Instantiate 'Telerik.Sitefinity.Modules.Newsletters.NewslettersManager' providers" - 00:00:00.5013570
+-- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Newsletters.Data.OpenAccessNewslettersDataProvider)." - 00:00:00.3903334
+--- "Update meta data. MetadataSource: NewsletterMetadataSource" - 00:00:00.3903022
+---- "Aggregation" - 00:00:00.2582577
+----- "Extend" - 00:00:00.2582542
+------ "Prepare mappings for NewsletterMetadataSource" - 00:00:00.0796126
+------ "Unknown" - 00:00:00.1786416
+---- "ReplaceMetadata" - 00:00:00.1317477
+---- "Upgrade provider" - 00:00:00.0001996
+-- "Unknown" - 00:00:00.1110236
+Total: 00:00:00.6742645

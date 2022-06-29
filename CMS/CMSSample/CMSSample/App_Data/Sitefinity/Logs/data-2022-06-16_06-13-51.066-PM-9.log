@@ -1,0 +1,11 @@
+- "Instantiate 'Telerik.Sitefinity.Personalization.Impl.PersonalizationManager' providers" - 00:00:00.7870822
+-- "Extend metadata container. Module: (Telerik.Sitefinity.Personalization.Impl.Data.OpenAccessPersonalizationDataProvider)." - 00:00:00.5762480
+--- "Update meta data. MetadataSource: PersonalizationFluentMetadataSource" - 00:00:00.5762061
+---- "Aggregation" - 00:00:00.4612794
+----- "Extend" - 00:00:00.4612681
+------ "Prepare mappings for PersonalizationFluentMetadataSource" - 00:00:00.0293098
+------ "Unknown" - 00:00:00.4319583
+---- "ReplaceMetadata" - 00:00:00.1144040
+---- "Upgrade provider" - 00:00:00.0003974
+-- "Unknown" - 00:00:00.2108342
+Total: 00:00:00.7870822

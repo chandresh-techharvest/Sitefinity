@@ -1,0 +1,20 @@
+﻿@using Progress.Sitefinity.AspNetCore.Mvc.Rendering;
+@using Progress.Sitefinity.RestSdk.Dto;
+@using Progress.Sitefinity.RestSdk;
+
+@model Progress.Sitefinity.AspNetCore.Widgets.Models.ContentList.ContentListViewModel
+
+
+@foreach (var item in Model.Items)
+{
+    <div class="col-lg-6 col-12">
+    <h3 class="mb-3">@(item.GetValue<string>("Title"))</h3>
+
+    <p>@(item.GetValue<string>("Summary"))</p>
+
+    <a class="custom-btn custom-border-btn btn custom-link mt-3 me-3" href="#section_3">Meet Speakers</a>
+
+    <a class="custom-btn btn custom-link mt-3" href="#section_4">Check out Schedule</a>
+    <h3><a href="@Model.GetItemUrl(this.Context, item)">@(item.GetValue<string>("Title"))</a></h3>
+</div>
+}

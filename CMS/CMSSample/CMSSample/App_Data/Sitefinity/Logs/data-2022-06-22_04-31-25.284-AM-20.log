@@ -1,0 +1,35 @@
+- "WebApi: Creating route" - 00:00:01.7443479
+-- "WebApi: Creating service proxy" - 00:00:01.6569060
+--- "Prepare mappings for EventsMetadataSource" - 00:00:00.0059653
+--- "Prepare mappings for LibrariesMetadataSource" - 00:00:00.1181909
+--- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Libraries.Data.OpenAccessLibrariesProvider)." - 00:00:00.2331745
+---- "Update meta data. MetadataSource: CombinedMetadataSource" - 00:00:00.2331508
+----- "Aggregation" - 00:00:00.1799825
+------ "Extend" - 00:00:00.1799751
+------- "Prepare mappings for CombinedMetadataSource" - 00:00:00.0420809
+------- "Unknown" - 00:00:00.1378942
+----- "ReplaceMetadata" - 00:00:00.0530808
+----- "Upgrade provider" - 00:00:00.0000034
+--- "Instantiate 'Telerik.Sitefinity.Modules.Lists.ListsManager' providers" - 00:00:00.3897650
+---- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Lists.Data.OpenAccessListsDataProvider)." - 00:00:00.2512594
+----- "Update meta data. MetadataSource: ListsMetadataSource" - 00:00:00.2509643
+------ "Aggregation" - 00:00:00.1646244
+------- "Extend" - 00:00:00.1646221
+-------- "Prepare mappings for ListsMetadataSource" - 00:00:00.0470266
+-------- "Unknown" - 00:00:00.1175955
+------ "ReplaceMetadata" - 00:00:00.0428096
+------ "Upgrade provider" - 00:00:00.0434690
+---- "Unknown" - 00:00:00.1385056
+--- "Instantiate 'Telerik.Sitefinity.Modules.GenericContent.ContentManager' providers" - 00:00:00.3668489
+---- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.GenericContent.Data.OpenAccessContentProvider)." - 00:00:00.2699003
+----- "Update meta data. MetadataSource: ContentMetadataSource" - 00:00:00.2698783
+------ "Aggregation" - 00:00:00.2193019
+------- "Extend" - 00:00:00.2193001
+-------- "Prepare mappings for ContentMetadataSource" - 00:00:00.0980694
+-------- "Unknown" - 00:00:00.1212307
+------ "ReplaceMetadata" - 00:00:00.0502599
+------ "Upgrade provider" - 00:00:00.0002489
+---- "Unknown" - 00:00:00.0969486
+--- "Unknown" - 00:00:00.5429614
+-- "Unknown" - 00:00:00.0874419
+Total: 00:00:01.7443479

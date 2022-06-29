@@ -1,0 +1,38 @@
+- "ASYNC: RegisterManagerTypes on bootstrap" - 00:00:05.3134756
+-- "Instantiate 'Telerik.Sitefinity.Workflow.WorkflowManager' providers" - 00:00:00.6819593
+-- "Instantiate 'Telerik.Sitefinity.Data.ContentLinks.ContentLinksManager' providers" - 00:00:00.1018137
+-- "Instantiate 'Telerik.Sitefinity.Taxonomies.TaxonomyManager' providers" - 00:00:00.2866906
+-- "Instantiate 'Telerik.Sitefinity.ContentLocations.ContentLocationsManager' providers" - 00:00:00.1031240
+-- "Instantiate 'Telerik.Sitefinity.Versioning.VersionManager' providers" - 00:00:00.1164552
+-- "Instantiate 'Telerik.Sitefinity.Web.OutputCache.Data.OutputCacheRelationsManager' providers" - 00:00:00.0873502
+-- "Instantiate 'Telerik.Sitefinity.Services.Notifications.NotificationsManager' providers" - 00:00:00.0335765
+-- "Instantiate 'Telerik.Sitefinity.Services.Statistics.StatisticsManager' providers" - 00:00:00.0232277
+-- "Instantiate 'Telerik.Sitefinity.Services.Comments.Impl.CommentsManager' providers" - 00:00:00.0239348
+-- "Instantiate 'Telerik.Sitefinity.Modules.News.NewsManager' providers" - 00:00:00.1945612
+-- "Instantiate 'Telerik.Sitefinity.Modules.Blogs.BlogsManager' providers" - 00:00:00.5798932
+-- "Instantiate 'Telerik.Sitefinity.Modules.Events.EventsManager' providers" - 00:00:00.1632470
+-- "Instantiate 'Telerik.Sitefinity.Modules.Libraries.LibrariesManager' providers" - 00:00:00.3843119
+-- "Instantiate 'Telerik.Sitefinity.Modules.Libraries.BlobStorage.BlobStorageManager' providers" - 00:00:00.1817716
+-- "Instantiate 'Telerik.Sitefinity.Modules.Forms.FormsManager' providers" - 00:00:00.2243334
+-- "Instantiate 'Telerik.Sitefinity.Authentication.Data.AuthenticationDataManager' providers" - 00:00:00.1196829
+-- "Instantiate 'Telerik.Sitefinity.ABTesting.ABTestingManager' providers" - 00:00:00.1057005
+-- "Instantiate 'Telerik.Sitefinity.Dashboard.Data.DashboardManager' providers" - 00:00:00.0950633
+-- "Instantiate 'Telerik.Sitefinity.Translations.TranslationManager' providers" - 00:00:00.1210634
+-- "Execute 32 default data initializers" - 00:00:00.6186421
+--- "Prepare mappings for LibrariesMetadataSource" - 00:00:00.0935821
+--- "Prepare mappings for BlobStorageMetadataSource" - 00:00:00.0250501
+--- "Prepare mappings for AuthenticationFluentMetadataSource" - 00:00:00.0017938
+--- "Prepare mappings for ABTestingFluentMetadataSource" - 00:00:00.0453797
+--- "Prepare mappings for DashboardFluentMetadataSource" - 00:00:00.0012879
+--- "Prepare mappings for TranslationMetadataSource" - 00:00:00.0028365
+--- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Libraries.Data.OpenAccessLibrariesProvider)." - 00:00:00.3012898
+---- "Update meta data. MetadataSource: CombinedMetadataSource" - 00:00:00.3012468
+----- "Aggregation" - 00:00:00.2263296
+------ "Extend" - 00:00:00.2263270
+------- "Prepare mappings for CombinedMetadataSource" - 00:00:00.0528693
+------- "Unknown" - 00:00:00.1734577
+----- "ReplaceMetadata" - 00:00:00.0745519
+----- "Upgrade provider" - 00:00:00.0002925
+--- "Unknown" - 00:00:00.1474222
+-- "Unknown" - 00:00:01.0670731
+Total: 00:00:05.3134756
