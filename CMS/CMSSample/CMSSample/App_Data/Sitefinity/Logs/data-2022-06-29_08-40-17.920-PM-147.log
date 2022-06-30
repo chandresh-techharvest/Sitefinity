@@ -1,0 +1,12 @@
+- "WebApi: Action executed - GET" - 00:00:00.6294640
+-- "WebApi: Getting items" - 00:00:00.1023091
+-- "WebApi: Transforming database value" - 00:00:00.2961229
+--- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.0513080
+--- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000144
+--- "WebApi: Getting calculated property value - IsPersonalized" - 00:00:00.0394968
+--- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0036590
+--- "WebApi: Getting calculated property value - ParentTemplate" - 00:00:00.0028428
+--- "WebApi: Getting calculated property value - PagesCount" - 00:00:00.1620260
+--- "WebApi: Getting calculated property value - DisplayStatus" - 00:00:00.0347632
+-- "Unknown" - 00:00:00.2310320
+Total: 00:00:00.6294640

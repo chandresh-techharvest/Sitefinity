@@ -1,0 +1,40 @@
+- "WebApi: Executing a batch request" - 00:00:04.0354743
+-- "WebApi: Action executed - POST" - 00:00:03.9410728
+--- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Libraries.BlobStorage.OpenAccessBlobStorageProvider)." - 00:00:00.2036150
+---- "Update meta data. MetadataSource: BlobStorageMetadataSource" - 00:00:00.2033882
+----- "Aggregation" - 00:00:00.1705463
+------ "Extend" - 00:00:00.1705443
+------- "Prepare mappings for BlobStorageMetadataSource" - 00:00:00.0587775
+------- "Unknown" - 00:00:00.1117668
+----- "ReplaceMetadata" - 00:00:00.0325872
+----- "Upgrade provider" - 00:00:00.0001635
+--- "Extend metadata container. Module: (Telerik.Sitefinity.MobileFormats.Data.OpenAccessMobileFormatsDataProvider)." - 00:00:00.2052103
+---- "Update meta data. MetadataSource: MobileFormatsMetadataSource" - 00:00:00.2050182
+----- "Aggregation" - 00:00:00.1726839
+------ "Extend" - 00:00:00.1726807
+------- "Prepare mappings for MobileFormatsMetadataSource" - 00:00:00.0025377
+------- "Unknown" - 00:00:00.1701430
+----- "ReplaceMetadata" - 00:00:00.0320884
+----- "Upgrade provider" - 00:00:00.0001844
+--- "Load Workflow for path: ~/DefaultWorkflows/AnyMediaContentApprovalWorkflow.xamlx" - 00:00:00.1312055
+--- "WebApi: Executing workflow operation - SaveDraft" - 00:00:02.7130271
+---- "Message Workflow" - 00:00:02.7130187
+----- "Run workflow activity" - 00:00:02.7129415
+--- "WebApi: Transforming database value" - 00:00:00.0885601
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000165
+---- "WebApi: Getting calculated property value - Url" - 00:00:00.0121014
+---- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.0076102
+---- "WebApi: Getting calculated property value - IsDamMedia" - 00:00:00.0008450
+---- "WebApi: Getting calculated property value - Breadcrumb" - 00:00:00.0013769
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000643
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000096
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000152
+---- "WebApi: Getting calculated property value - LibraryTitle" - 00:00:00.0168813
+---- "WebApi: Getting calculated property value - Thumbnails" - 00:00:00.0086277
+---- "WebApi: Getting calculated property value - LockedStatus" - 00:00:00.0095894
+---- "WebApi: Getting calculated property value - DisplayStatus" - 00:00:00.0105938
+---- "WebApi: Getting calculated property value - FirstPublished" - 00:00:00.0090543
+---- "WebApi: Getting calculated property value - LastPublished" - 00:00:00.0044392
+--- "Unknown" - 00:00:00.5994548
+-- "WebApi: Action executed - POST" - 00:00:00.0834630
+Total: 00:00:04.0354743

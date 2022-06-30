@@ -1,0 +1,25 @@
+- "WebApi: Creating route" - 00:00:01.6490095
+-- "WebApi: Creating service proxy" - 00:00:01.5613130
+--- "Instantiate 'Telerik.Sitefinity.Modules.Lists.ListsManager' providers" - 00:00:00.4133234
+---- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.Lists.Data.OpenAccessListsDataProvider)." - 00:00:00.3011020
+----- "Update meta data. MetadataSource: ListsMetadataSource" - 00:00:00.3007663
+------ "Aggregation" - 00:00:00.1650847
+------- "Extend" - 00:00:00.1650828
+-------- "Prepare mappings for ListsMetadataSource" - 00:00:00.0229069
+-------- "Unknown" - 00:00:00.1421759
+------ "ReplaceMetadata" - 00:00:00.0892897
+------ "Upgrade provider" - 00:00:00.0461188
+---- "Unknown" - 00:00:00.1122214
+--- "Instantiate 'Telerik.Sitefinity.Modules.GenericContent.ContentManager' providers" - 00:00:00.3587469
+---- "Extend metadata container. Module: (Telerik.Sitefinity.Modules.GenericContent.Data.OpenAccessContentProvider)." - 00:00:00.2565176
+----- "Update meta data. MetadataSource: ContentMetadataSource" - 00:00:00.2564856
+------ "Aggregation" - 00:00:00.2236993
+------- "Extend" - 00:00:00.2236961
+-------- "Prepare mappings for ContentMetadataSource" - 00:00:00.0537813
+-------- "Unknown" - 00:00:00.1699148
+------ "ReplaceMetadata" - 00:00:00.0323418
+------ "Upgrade provider" - 00:00:00.0003374
+---- "Unknown" - 00:00:00.1022293
+--- "Unknown" - 00:00:00.7892427
+-- "Unknown" - 00:00:00.0876965
+Total: 00:00:01.6490095
