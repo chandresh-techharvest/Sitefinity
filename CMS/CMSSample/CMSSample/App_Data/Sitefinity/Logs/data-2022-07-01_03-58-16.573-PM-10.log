@@ -1,0 +1,14 @@
+- "Prepare mappings for EventsMetadataSource" - 00:00:00.0296671
+- "Prepare mappings for LibrariesMetadataSource" - 00:00:00.2139502
+- "Prepare mappings for BlobStorageMetadataSource" - 00:00:00.0159797
+- "Prepare mappings for AuthenticationFluentMetadataSource" - 00:00:00.0652951
+- "Prepare mappings for TranslationMetadataSource" - 00:00:00.0196970
+- "Extend metadata container. Module: (Telerik.Sitefinity.Translations.Data.OpenAccessTranslationProvider)." - 00:00:00.8788384
+-- "Update meta data. MetadataSource: CombinedMetadataSource" - 00:00:00.8775767
+--- "Aggregation" - 00:00:00.6329483
+---- "Extend" - 00:00:00.6329418
+----- "Prepare mappings for CombinedMetadataSource" - 00:00:00.0412935
+----- "Unknown" - 00:00:00.5916483
+--- "ReplaceMetadata" - 00:00:00.2444966
+--- "Upgrade provider" - 00:00:00.0000074
+Total: 00:00:01.2234275

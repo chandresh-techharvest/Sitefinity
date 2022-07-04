@@ -1,0 +1,23 @@
+- "ASYNC: RegisterManagerTypes on bootstrap" - 00:00:03.7469864
+-- "Instantiate 'Telerik.Sitefinity.Workflow.WorkflowManager' providers" - 00:00:00.6452613
+-- "Instantiate 'Telerik.Sitefinity.Data.ContentLinks.ContentLinksManager' providers" - 00:00:00.0715453
+-- "Instantiate 'Telerik.Sitefinity.Taxonomies.TaxonomyManager' providers" - 00:00:00.1639643
+-- "Instantiate 'Telerik.Sitefinity.ContentLocations.ContentLocationsManager' providers" - 00:00:00.0667603
+-- "Instantiate 'Telerik.Sitefinity.Versioning.VersionManager' providers" - 00:00:00.1036974
+-- "Instantiate 'Telerik.Sitefinity.Web.OutputCache.Data.OutputCacheRelationsManager' providers" - 00:00:00.0560305
+-- "Instantiate 'Telerik.Sitefinity.Services.Notifications.NotificationsManager' providers" - 00:00:00.0337435
+-- "Instantiate 'Telerik.Sitefinity.Services.Statistics.StatisticsManager' providers" - 00:00:00.0148918
+-- "Instantiate 'Telerik.Sitefinity.Services.Comments.Impl.CommentsManager' providers" - 00:00:00.0214807
+-- "Instantiate 'Telerik.Sitefinity.Modules.News.NewsManager' providers" - 00:00:00.1060932
+-- "Instantiate 'Telerik.Sitefinity.Modules.Blogs.BlogsManager' providers" - 00:00:00.1649976
+-- "Instantiate 'Telerik.Sitefinity.Modules.Events.EventsManager' providers" - 00:00:00.3308177
+-- "Instantiate 'Telerik.Sitefinity.Modules.Libraries.LibrariesManager' providers" - 00:00:00.1884134
+-- "Instantiate 'Telerik.Sitefinity.Modules.Libraries.BlobStorage.BlobStorageManager' providers" - 00:00:00.3034776
+-- "Instantiate 'Telerik.Sitefinity.Modules.Forms.FormsManager' providers" - 00:00:00.2714711
+-- "Instantiate 'Telerik.Sitefinity.Authentication.Data.AuthenticationDataManager' providers" - 00:00:00.0868465
+-- "Instantiate 'Telerik.Sitefinity.Translations.TranslationManager' providers" - 00:00:00.0805044
+-- "Instantiate 'Telerik.Sitefinity.ABTesting.ABTestingManager' providers" - 00:00:00.0822376
+-- "Instantiate 'Telerik.Sitefinity.Dashboard.Data.DashboardManager' providers" - 00:00:00.0910548
+-- "Execute 33 default data initializers" - 00:00:00.0490096
+-- "Unknown" - 00:00:00.8146878
+Total: 00:00:03.7469864

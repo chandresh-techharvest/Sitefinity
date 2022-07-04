@@ -1,0 +1,79 @@
+- "WebApi: Action executed - GET" - 00:00:00.6363536
+-- "WebApi: Getting items" - 00:00:00.0876627
+-- "WebApi: Transforming database value" - 00:00:00.5470331
+--- "WebApi: Getting calculated property value - Provider" - 00:00:00.0001205
+--- "WebApi: Getting calculated property value - Url" - 00:00:00.0401404
+--- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.1038878
+--- "WebApi: Getting calculated property value - IsDamMedia" - 00:00:00.0000703
+--- "WebApi: Getting calculated property value - Breadcrumb" - 00:00:00.0004574
+--- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0001169
+--- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000785
+--- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000348
+--- "WebApi: Getting calculated property value - LibraryTitle" - 00:00:00.0069677
+--- "WebApi: Getting calculated property value - Thumbnails" - 00:00:00.0675609
+--- "WebApi: Getting calculated property value - LockedStatus" - 00:00:00.0158574
+--- "WebApi: Getting calculated property value - DisplayStatus" - 00:00:00.0129369
+--- "WebApi: Getting calculated property value - FirstPublished" - 00:00:00.0090096
+--- "WebApi: Getting calculated property value - LastPublished" - 00:00:00.0099702
+--- "WebApi: Transforming database value" - 00:00:00.0903720
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000555
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0412086
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0001034
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000356
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000186
+--- "WebApi: Transforming database value" - 00:00:00.0149811
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000289
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0006506
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000442
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000146
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000132
+--- "WebApi: Transforming database value" - 00:00:00.0131032
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000244
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0006219
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000214
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000081
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000068
+--- "WebApi: Transforming database value" - 00:00:00.0138992
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000268
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0007507
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000551
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000501
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000159
+--- "WebApi: Transforming database value" - 00:00:00.0132286
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000288
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0009504
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000504
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000211
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000143
+--- "WebApi: Transforming database value" - 00:00:00.0128592
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000245
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0007642
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000400
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000188
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000118
+--- "WebApi: Transforming database value" - 00:00:00.0240782
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000318
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0008158
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000933
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000277
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000119
+--- "WebApi: Transforming database value" - 00:00:00.0122862
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000240
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0005572
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000625
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000225
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000116
+--- "WebApi: Transforming database value" - 00:00:00.0124973
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000204
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0007577
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000790
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000288
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000124
+--- "WebApi: Transforming database value" - 00:00:00.0128432
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000249
+---- "WebApi: Getting calculated property value - ChildrenCount" - 00:00:00.0008311
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000687
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000343
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000140
+--- "Unknown" - 00:00:00.0596756
+Total: 00:00:00.6363536

@@ -1,4 +1,23 @@
 {
+
+  "DynamicSpeakers": [
+    {
+      "fieldTitle": "Title",
+      "fieldType": "ShortText"
+    },
+    {
+      "fieldTitle": "Designation",
+      "fieldType": "ShortText"
+    },
+    {
+      "fieldTitle": "SpeakerImage",
+      "fieldType": "RelatedImage"
+    },
+    {
+      "fieldTitle": "IsFeatured",
+      "fieldType": "Yes/No"
+    }
+  ],
   "EventsListCustom": [
     {
       "fieldTitle": "Title",

@@ -1,0 +1,16 @@
+- "WebApi: Executing a batch request" - 00:00:01.1909138
+-- "WebApi: Action executed - GET" - 00:00:00.6283040
+--- "WebApi: Transforming database value" - 00:00:00.5912665
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0042973
+---- "WebApi: Getting calculated property value - HasChildren" - 00:00:00.0039529
+---- "WebApi: Getting calculated property value - Breadcrumb" - 00:00:00.0030977
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0046197
+---- "WebApi: Getting calculated property value - PublicationDate" - 00:00:00.0014821
+---- "WebApi: Getting calculated property value - ViewUrl" - 00:00:00.5541527
+---- "WebApi: Getting calculated property value - EditUrl" - 00:00:00.0021488
+---- "WebApi: Getting calculated property value - IsHomePage" - 00:00:00.0013636
+---- "WebApi: Getting calculated property value - RelativeUrlPath" - 00:00:00.0016494
+-- "WebApi: Action executed - GET" - 00:00:00.0335609
+-- "WebApi: Action executed - GET" - 00:00:00.3334975
+-- "Unknown" - 00:00:00.1955514
+Total: 00:00:01.1909138

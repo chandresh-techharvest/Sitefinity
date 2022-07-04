@@ -1,0 +1,60 @@
+﻿@using Progress.Sitefinity.RestSdk.Dto
+@model IList<Progress.Sitefinity.RestSdk.Dto.SdkItem>
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-lg-12 col-12">
+            <h2 class="mb-5 text-center">Breaking <u class="text-info">News</u></h2>
+
+
+
+            <div class="tab-content mt-5" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="nav-DayOne" role="tabpanel" aria-labelledby="nav-DayOne-tab">
+                    @foreach (var item in Model)
+                    {
+                        var image = item.GetValue<List<ImageDto>>("Banner").FirstOrDefault();
+                        
+                        <div class="row border-bottom pb-5 mb-5">
+                            <div class="col-lg-4 col-12">
+                                <img src="@(image.ItemDefaultUrl)" class="schedule-image img-fluid" alt="">
+                            </div>
+
+                            <div class="col-lg-8 col-12 mt-3 mt-lg-0">
+
+                                <h4 class="mb-2">@(item.GetValue<string>("Title"))</h4>
+
+                                <p>@(item.GetValue<string>("Summary"))</p>
+
+                                <div class="d-flex align-items-center mt-4">
+                                     <span class="mx-1 mx-lg-5">
+                                        <i class="bi-layout-sidebar me-2"></i>
+                                         @(item.GetValue<string>("PublicationDate"))
+                                    </span>
+                                    <div class="avatar-group d-flex">
+                                        <i class="bi bi-person-circle"></i>
+                                        <div class="ms-3">
+                                            @(item.GetValue<string>("Author"))
+                                        </div>
+                                    </div>
+
+                                    @*<span class="mx-3 mx-lg-5">
+                                        <i class="bi-clock me-2"></i>
+                                        9:00 - 9:45 AM
+                                    </span>*@
+
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                </div>
+
+
+
+            </div>
+        </div>
+
+    </div>
+</div>

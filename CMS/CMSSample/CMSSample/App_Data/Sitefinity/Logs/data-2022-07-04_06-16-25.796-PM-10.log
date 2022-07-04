@@ -1,0 +1,23 @@
+- "WebApi: Executing a batch request" - 00:00:03.9914110
+-- "WebApi: Action executed - POST" - 00:00:03.8727630
+--- "WebApi: Executing workflow operation - Publish" - 00:00:03.8554638
+---- "Message Workflow" - 00:00:03.8554431
+----- "Run workflow activity" - 00:00:03.8551149
+-- "WebApi: Action executed - GET" - 00:00:00.1171764
+--- "WebApi: Getting items" - 00:00:00.0171116
+--- "WebApi: Transforming database value" - 00:00:00.0991980
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0001203
+---- "WebApi: Getting calculated property value - HasChildren" - 00:00:00.0002854
+---- "WebApi: Getting calculated property value - Breadcrumb" - 00:00:00.0000303
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000267
+---- "WebApi: Getting calculated property value - PublicationDate" - 00:00:00.0641108
+---- "WebApi: Getting calculated property value - ViewUrl" - 00:00:00.0245491
+---- "WebApi: Getting calculated property value - EditUrl" - 00:00:00.0001171
+---- "WebApi: Getting calculated property value - IsHomePage" - 00:00:00.0000103
+---- "WebApi: Getting calculated property value - RelativeUrlPath" - 00:00:00.0000138
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000318
+---- "WebApi: Getting calculated property value - DisplayStatus" - 00:00:00.0023522
+---- "WebApi: Getting calculated property value - LockedStatus" - 00:00:00.0000206
+---- "WebApi: Getting calculated property value - FirstPublished" - 00:00:00.0030633
+---- "WebApi: Getting calculated property value - Marketing" - 00:00:00.0024868
+Total: 00:00:03.9914110

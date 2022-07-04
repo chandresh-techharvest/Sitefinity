@@ -75,3 +75,4 @@ E:\Projects\2022\Progress\Code\Core\Core Renderer\Renderer\Renderer\obj\Debug\ne
 E:\Projects\2022\Progress\Code\Core\Core Renderer\Renderer\Renderer\obj\Debug\net6.0\Renderer.genruntimeconfig.cache
 E:\Projects\2022\Progress\Code\Core\Core Renderer\Renderer\Renderer\obj\Debug\net6.0\ref\Renderer.dll
 E:\Projects\2022\Progress\Code\Core\Core Renderer\Renderer\Renderer\bin\Debug\net6.0\Views\Shared\Components\SitefinityContentList\ViewsMetaData.json
+E:\Projects\2022\Progress\Code\Core\Core Renderer\Renderer\Renderer\bin\Debug\net6.0\Views\Shared\Components\SpeakersContentList\ViewsMetaData.json

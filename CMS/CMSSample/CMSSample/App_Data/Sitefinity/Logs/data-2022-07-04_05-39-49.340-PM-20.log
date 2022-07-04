@@ -1,0 +1,25 @@
+- "WebApi: Executing a batch request" - 00:00:00.7080741
+-- "WebApi: Action executed - POST" - 00:00:00.3804666
+--- "WebApi: transforming request value" - 00:00:00.0001888
+--- "WebApi: Creating an item" - 00:00:00.3425448
+---- "WebApi: Executing workflow operation - SaveDraft" - 00:00:00.1351389
+----- "Message Workflow" - 00:00:00.1351253
+------ "Run workflow activity" - 00:00:00.1348870
+---- "Unknown" - 00:00:00.2074059
+--- "WebApi: Transforming database value" - 00:00:00.0371396
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000313
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0001499
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000402
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000171
+---- "WebApi: Getting calculated property value - Comments" - 00:00:00.0104252
+---- "WebApi: Getting calculated property value - LockedStatus" - 00:00:00.0073467
+---- "WebApi: Getting calculated property value - DisplayStatus" - 00:00:00.0107302
+---- "WebApi: Getting calculated property value - FirstPublished" - 00:00:00.0026860
+---- "WebApi: Getting calculated property value - LastPublished" - 00:00:00.0023614
+-- "WebApi: Action executed - DELETE" - 00:00:00.0501229
+-- "WebApi: Action executed - POST" - 00:00:00.0413483
+-- "WebApi: Action executed - POST" - 00:00:00.2278874
+--- "WebApi: Executing workflow operation - Publish" - 00:00:00.2074067
+---- "Message Workflow" - 00:00:00.2073925
+----- "Run workflow activity" - 00:00:00.2072538
+Total: 00:00:00.7080741

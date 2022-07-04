@@ -1,0 +1,139 @@
+- "Bootstrap" - 00:00:30.5030171
+-- "Bootstrapping" - 00:00:00.0024113
+-- "RegisterIoCTypes" - 00:00:04.3206899
+--- "Instantiate 'Telerik.Sitefinity.Configuration.ConfigManager' providers" - 00:00:00.0540233
+--- "Instantiate 'Telerik.Sitefinity.Localization.ResourceManager' providers" - 00:00:00.0243288
+--- "Unknown" - 00:00:04.2423378
+-- "RegisterRoutes" - 00:00:20.0480835
+--- "Instantiate 'Telerik.Sitefinity.Data.Metadata.MetadataManager' providers" - 00:00:06.9766252
+---- "Prepare mappings for MetadataMetadataSource" - 00:00:02.2874286
+---- "Prepare mappings for XmlConfigStorageMetadataSource" - 00:00:00.0272751
+---- "Unknown" - 00:00:04.6619215
+--- "MetadataManager" - 00:00:00.0001749
+--- "Initialize Services:" - 00:00:00.2408647
+---- "Notifications" - 00:00:00.0228371
+---- "Documents" - 00:00:00.0062753
+---- "Statistics" - 00:00:00.1973304
+---- "Comments" - 00:00:00.0093829
+---- "RecycleBin" - 00:00:00.0028477
+--- "Initialize Modules:" - 00:00:03.7303636
+---- "Multisite" - 00:00:00.0367507
+---- "MultisiteInternal" - 00:00:00.1435767
+---- "Scheduling" - 00:00:00.0142067
+---- "News" - 00:00:00.0308953
+---- "Blogs" - 00:00:00.0634621
+---- "Events" - 00:00:00.0523073
+---- "Libraries" - 00:00:00.0451219
+---- "Forms" - 00:00:00.0384322
+---- "Lists" - 00:00:00.0226317
+---- "Authentication" - 00:00:00.8376384
+---- "Newsletters" - 00:00:00.0347292
+---- "GenericContent" - 00:00:00.0145697
+---- "ControlTemplates" - 00:00:00.0165607
+---- "ModuleBuilder" - 00:00:00.0463866
+---- "ResponsiveDesign" - 00:00:00.0000063
+---- "Publishing" - 00:00:00.8194962
+---- "Search" - 00:00:00.1911891
+---- "Personalization" - 00:00:00.1512039
+---- "Feather" - 00:00:00.0121017
+---- "ProtectionShield" - 00:00:00.0000045
+---- "Comments" - 00:00:00.0166710
+---- "WebServices" - 00:00:00.1749220
+---- "Warmup" - 00:00:00.0000217
+---- "AdminBridge" - 00:00:00.0224207
+---- "EloquaConnector" - 00:00:00.0287737
+---- "HubSpotConnector" - 00:00:00.0328801
+---- "Translations" - 00:00:00.0865671
+---- "ABTesting" - 00:00:00.0632615
+---- "AuditTrail" - 00:00:00.0000044
+---- "PackagingModule" - 00:00:00.1691059
+---- "ContextualHelp" - 00:00:00.0144766
+---- "ServiceHooksModule" - 00:00:00.0236806
+---- "Analytics" - 00:00:00.0680738
+---- "ElasticsearchAudit" - 00:00:00.0000061
+---- "Dashboard" - 00:00:00.0209947
+---- "DataIntelligenceConnector" - 00:00:00.1047923
+---- "Diagnostics" - 00:00:00.0000045
+---- "Forums" - 00:00:00.0000016
+---- "MarketoConnector" - 00:00:00.0019271
+---- "MobileFormats" - 00:00:00.0976808
+---- "NativeChat" - 00:00:00.0521491
+---- "RecycleBin" - 00:00:00.0458835
+---- "SalesForceConnector" - 00:00:00.0218732
+---- "SharepointConnector" - 00:00:00.0464830
+---- "SitemapGenerator" - 00:00:00.0299090
+---- "Synchronization" - 00:00:00.0000042
+---- "WebSecurity" - 00:00:00.0342955
+--- "Initialize taxonomy" - 00:00:00.0376069
+--- "RegisterManagerTypes" - 00:00:04.4796004
+---- "Instantiate 'Telerik.Sitefinity.Packaging.PackagingManager' providers" - 00:00:00.1717108
+---- "Instantiate 'Telerik.Sitefinity.SiteSettings.SiteSettingsManager' providers" - 00:00:00.2139580
+---- "Instantiate 'Telerik.Sitefinity.Modules.Pages.PageManager' providers" - 00:00:00.8824177
+---- "Instantiate 'Telerik.Sitefinity.Security.SecurityManager' providers" - 00:00:00.1836907
+---- "Instantiate 'Telerik.Sitefinity.Security.RoleManager' providers" - 00:00:00.2234037
+---- "Instantiate 'Telerik.Sitefinity.Security.UserManager' providers" - 00:00:00.2741480
+---- "Instantiate 'Telerik.Sitefinity.Security.UserActivityManager' providers" - 00:00:00.2016642
+---- "Instantiate 'Telerik.Sitefinity.Security.UserProfileManager' providers" - 00:00:00.2962840
+---- "Instantiate 'Telerik.Sitefinity.Multisite.MultisiteManager' providers" - 00:00:00.2271622
+---- "Instantiate 'Telerik.Sitefinity.Scheduling.SchedulingManager' providers" - 00:00:00.2013685
+---- "Instantiate 'Telerik.Sitefinity.DynamicModules.Builder.ModuleBuilderManager' providers" - 00:00:00.3523028
+---- "Instantiate 'Telerik.Sitefinity.DynamicModules.DynamicModuleManager' providers" - 00:00:00.2536781
+---- "Instantiate 'Telerik.Sitefinity.Publishing.PublishingManager' providers" - 00:00:00.3215894
+---- "Instantiate 'Telerik.Sitefinity.Frontend.FilesMonitoring.Data.FileMonitorDataManager' providers" - 00:00:00.0148057
+---- "Instantiate 'Telerik.Sitefinity.ServiceHooks.ServiceHooksManager' providers" - 00:00:00.0258958
+---- "Unknown" - 00:00:00.6355208
+--- "Load Modules:" - 00:00:03.0785850
+---- "Load 'PackagingModule' module" - 00:00:01.8476323
+----- "Prepare mappings for PackagingMetadataSource" - 00:00:00.4492825
+------ "Create meta cache" - 00:00:00.2882921
+------ "Unknown" - 00:00:00.1609904
+----- "Prepare mappings for SiteSettingsMetadataSource" - 00:00:00.0126456
+----- "Prepare mappings for PagesMetadataSource" - 00:00:00.1673671
+----- "Prepare mappings for SecurityMetadataSource" - 00:00:00.0204108
+----- "Prepare mappings for RoleMetadataSource" - 00:00:00.0143566
+----- "Prepare mappings for MembershipMetadataSource" - 00:00:00.0142670
+----- "Prepare mappings for UserActivityMetadaSource" - 00:00:00.0129767
+----- "Prepare mappings for UserProfileMetadataSource" - 00:00:00.0219795
+----- "Prepare mappings for MultisiteMetadataSource" - 00:00:00.0233638
+----- "Prepare mappings for SchedulingMetadataSource" - 00:00:00.0151090
+----- "Prepare mappings for ModuleBuilderMetadataSource" - 00:00:00.2077655
+----- "Prepare mappings for DynamicModuleMetadataSource" - 00:00:00.0195420
+----- "Prepare mappings for PublishingMetadataSource" - 00:00:00.0170897
+----- "Prepare mappings for FileMonitorFluentMetadataSource" - 00:00:00.0007985
+----- "Prepare mappings for ServiceHooksFluentMetadataSource" - 00:00:00.0125371
+----- "Extend metadata container. Module: (Telerik.Sitefinity.Packaging.Data.OpenAccessPackagingProvider)." - 00:00:00.6636711
+------ "Update meta data. MetadataSource: CombinedMetadataSource" - 00:00:00.6379436
+------- "Aggregation" - 00:00:00.2563904
+-------- "Extend" - 00:00:00.2563835
+--------- "Prepare mappings for CombinedMetadataSource" - 00:00:00.0564192
+--------- "Unknown" - 00:00:00.1999643
+------- "ReplaceMetadata" - 00:00:00.3706656
+------- "Upgrade provider" - 00:00:00.0066555
+----- "Unknown" - 00:00:00.1744698
+---- "Load all other modules async" - 00:00:01.2309225
+----- "Load 'WebSecurity' module" - 00:00:00.0025967
+----- "Load 'SitemapGenerator' module" - 00:00:00.0012074
+----- "Load 'SharepointConnector' module" - 00:00:00.0007820
+----- "Load 'SalesForceConnector' module" - 00:00:00.0002348
+----- "Load 'RecycleBin' module" - 00:00:00.0006056
+----- "Load 'NativeChat' module" - 00:00:00.0002328
+----- "Load 'MobileFormats' module" - 00:00:00.0619896
+----- "Unknown" - 00:00:01.1632736
+--- "Enable MVC" - 00:00:00.0283816
+--- "On Modules Initialized Event" - 00:00:00.0034571
+--- "Unknown" - 00:00:01.4724241
+-- "Bootstrap Events" - 00:00:05.1205694
+--- "On Initialized (Bootstrapped)" - 00:00:02.6243069
+---- "Feather" - 00:00:01.7529659
+----- "Initializing 'ResourcesInitializer'." - 00:00:00.0248102
+----- "Initializing 'DesignerInitializer'." - 00:00:00.0153597
+----- "Initializing 'FileMonitoringInitializer'." - 00:00:00.2453039
+----- "Initializing 'LayoutInitializer'." - 00:00:00.0271245
+----- "Initializing 'PersonalizationInitializer'." - 00:00:00.0048140
+----- "Initializing 'ControllerContainerInitializer'." - 00:00:01.4096093
+---- "Unknown" - 00:00:00.8713410
+--- "On Bootstrapped" - 00:00:02.4962461
+---- "Initialize ServiceStack app host." - 00:00:02.3513644
+---- "Unknown" - 00:00:00.1448817
+-- "Unknown" - 00:00:01.0112630
+Total: 00:00:30.5030171

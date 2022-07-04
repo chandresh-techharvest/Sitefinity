@@ -1,132 +1,22 @@
 ----------------------------------------
-Timestamp: 6/29/2022 9:21:54 PM
+Timestamp: 7/4/2022 3:22:53 PM
 
 Message: Db Migration Complexity: Extending
 
 
 ----------------------------------------
 ----------------------------------------
-Timestamp: 6/29/2022 9:21:54 PM
+Timestamp: 7/4/2022 3:22:53 PM
 
 Message: Adding a column(s) on an existing table(s).
 
 
 ----------------------------------------
 ----------------------------------------
-Timestamp: 6/29/2022 9:21:54 PM
+Timestamp: 7/4/2022 3:22:53 PM
 
-Message: Adding a foreign key constraint(s) to a new table(s), the create table statement(s) is included as well.
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 9:21:54 PM
-
-Message: Adding a new table(s).
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 9:21:54 PM
-
-Message: -- Telerik.Sitefinity.DynamicTypes.Model.OurSpeakers.Speaker
-CREATE TABLE [ourspeakers_speaker] (
-    [base_id] uniqueidentifier NOT NULL,
-    [Title] NVARCHAR(255) NULL,             -- Speaker.Title
-    [IsFeatured] BIT NULL,                  -- Speaker.IsFeatured
-    [Designation] NVARCHAR(255) NULL,       -- Speaker.Designation
-    CONSTRAINT [pk_ourspeakers_speaker] PRIMARY KEY ([base_id])
-)
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 9:21:54 PM
-
-Message: -- add column for field <internal-class-id>
-ALTER TABLE [sf_dynamic_content] ADD [voa_class] int NULL
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 9:21:54 PM
-
-Message: UPDATE [sf_dynamic_content] SET [voa_class] = 0
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 9:21:54 PM
-
-Message: ALTER TABLE [sf_dynamic_content] ALTER COLUMN [voa_class] int NOT NULL
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 10:19:31 PM
-
-Message: Db Migration Complexity: Complex
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 10:19:31 PM
-
-Message: Adding a foreign key constraint(s) to a new table(s), the create table statement(s) is included as well.
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 10:19:31 PM
-
-Message: Adding a new table(s).
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 10:19:31 PM
-
-Message: Modifying a column(s) on an existing table(s).
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 10:19:31 PM
-
-Message: -- Telerik.Sitefinity.DynamicTypes.Model.sf_contactus
-CREATE TABLE [sf_fm_sf_contactus] (
-    [id] uniqueidentifier NOT NULL,
-    [stfnty_txt_feld_form_control_1] NVARCHAR(255) NULL, -- sf_contactus.SitefinityTextFieldFormControl_1
-    [stfnty_txt_feld_form_control_0] NVARCHAR(255) NULL, -- sf_contactus.SitefinityTextFieldFormControl_0
-    [stfnity_paragraph_form_control] NVARCHAR(MAX) NULL, -- sf_contactus.SitefinityParagraphFormControl
-    [stfnty_text_field_form_control] NVARCHAR(255) NULL, -- sf_contactus.SitefinityTextFieldFormControl
-    CONSTRAINT [pk_sf_fm_sf_contactus] PRIMARY KEY ([id])
-)
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 10:19:31 PM
-
-Message: -- Column was read from database as: [voa_class] int null
--- modify column for field <internal-class-id>
-UPDATE [sf_form_entry]
-   SET [voa_class] = 0 -- Add your own default value here, for when [voa_class] is null.
- WHERE [voa_class] IS NULL
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 10:19:31 PM
-
-Message: ALTER TABLE [sf_form_entry] ALTER COLUMN [voa_class] int NOT NULL
-
-
-----------------------------------------
-----------------------------------------
-Timestamp: 6/29/2022 10:19:31 PM
-
-Message: ALTER TABLE [sf_fm_sf_contactus] ADD CONSTRAINT [ref_sf_fm_sf_cntcts_s_D746F8B5] FOREIGN KEY ([id]) REFERENCES [sf_form_entry]([id]) ON DELETE CASCADE
+Message: -- add column for field Recap
+ALTER TABLE [sf_news_items] ADD [recap] NVARCHAR(MAX) NULL
 
 
 ----------------------------------------

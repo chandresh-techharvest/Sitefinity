@@ -1,0 +1,23 @@
+- "WebApi: Executing a batch request" - 00:00:00.7784927
+-- "WebApi: Action executed - POST" - 00:00:00.6039228
+--- "WebApi: Executing workflow operation - SaveDraft" - 00:00:00.1566445
+---- "Message Workflow" - 00:00:00.1566265
+----- "Run workflow activity" - 00:00:00.1563135
+--- "WebApi: Transforming database value" - 00:00:00.0761756
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000467
+---- "WebApi: Getting calculated property value - Url" - 00:00:00.0139785
+---- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.0209497
+---- "WebApi: Getting calculated property value - IsDamMedia" - 00:00:00.0000156
+---- "WebApi: Getting calculated property value - Breadcrumb" - 00:00:00.0002346
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000650
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000338
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000114
+---- "WebApi: Getting calculated property value - LibraryTitle" - 00:00:00.0010621
+---- "WebApi: Getting calculated property value - Thumbnails" - 00:00:00.0075489
+---- "WebApi: Getting calculated property value - LockedStatus" - 00:00:00.0102576
+---- "WebApi: Getting calculated property value - DisplayStatus" - 00:00:00.0046642
+---- "WebApi: Getting calculated property value - FirstPublished" - 00:00:00.0056109
+---- "WebApi: Getting calculated property value - LastPublished" - 00:00:00.0058554
+--- "Unknown" - 00:00:00.3711027
+-- "WebApi: Action executed - POST" - 00:00:00.1718322
+Total: 00:00:00.7784927

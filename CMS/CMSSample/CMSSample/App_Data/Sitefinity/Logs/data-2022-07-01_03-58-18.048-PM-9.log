@@ -1,0 +1,22 @@
+- "ASYNC: RegisterManagerTypes on bootstrap" - 00:00:14.1362461
+-- "Instantiate 'Telerik.Sitefinity.Workflow.WorkflowManager' providers" - 00:00:01.8864977
+-- "Instantiate 'Telerik.Sitefinity.Data.ContentLinks.ContentLinksManager' providers" - 00:00:00.2472490
+-- "Instantiate 'Telerik.Sitefinity.Taxonomies.TaxonomyManager' providers" - 00:00:00.3693950
+-- "Instantiate 'Telerik.Sitefinity.ContentLocations.ContentLocationsManager' providers" - 00:00:00.2767805
+-- "Instantiate 'Telerik.Sitefinity.Versioning.VersionManager' providers" - 00:00:00.3769084
+-- "Instantiate 'Telerik.Sitefinity.Web.OutputCache.Data.OutputCacheRelationsManager' providers" - 00:00:00.2127476
+-- "Instantiate 'Telerik.Sitefinity.Services.Notifications.NotificationsManager' providers" - 00:00:00.0998272
+-- "Instantiate 'Telerik.Sitefinity.Services.Statistics.StatisticsManager' providers" - 00:00:00.0550395
+-- "Instantiate 'Telerik.Sitefinity.Services.Comments.Impl.CommentsManager' providers" - 00:00:00.0811085
+-- "Instantiate 'Telerik.Sitefinity.Modules.News.NewsManager' providers" - 00:00:00.3540820
+-- "Instantiate 'Telerik.Sitefinity.Modules.Blogs.BlogsManager' providers" - 00:00:00.4496798
+-- "Instantiate 'Telerik.Sitefinity.Modules.Events.EventsManager' providers" - 00:00:01.2601185
+-- "Instantiate 'Telerik.Sitefinity.Modules.Libraries.LibrariesManager' providers" - 00:00:00.7462569
+-- "Instantiate 'Telerik.Sitefinity.Modules.Libraries.BlobStorage.BlobStorageManager' providers" - 00:00:00.5007428
+-- "Instantiate 'Telerik.Sitefinity.Modules.Forms.FormsManager' providers" - 00:00:00.5594780
+-- "Instantiate 'Telerik.Sitefinity.Authentication.Data.AuthenticationDataManager' providers" - 00:00:00.8263779
+-- "Instantiate 'Telerik.Sitefinity.Translations.TranslationManager' providers" - 00:00:00.4206680
+-- "Instantiate 'Telerik.Sitefinity.Dashboard.Data.DashboardManager' providers" - 00:00:00.3300561
+-- "Execute 33 default data initializers" - 00:00:00.2165541
+-- "Unknown" - 00:00:04.8666786
+Total: 00:00:14.1362461

@@ -1,0 +1,30 @@
+- "WebApi: Action executed - GET" - 00:00:00.5391559
+-- "WebApi: Getting items" - 00:00:00.2096130
+-- "WebApi: Transforming database value" - 00:00:00.3116555
+--- "WebApi: Getting calculated property value - Provider" - 00:00:00.0001117
+--- "WebApi: Transforming database value" - 00:00:00.1417949
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000256
+---- "WebApi: Getting calculated property value - Url" - 00:00:00.0290896
+---- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.0873218
+---- "WebApi: Getting calculated property value - IsDamMedia" - 00:00:00.0005655
+---- "WebApi: Getting calculated property value - Thumbnails" - 00:00:00.0078555
+--- "WebApi: Transforming database value" - 00:00:00.0209483
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000128
+---- "WebApi: Getting calculated property value - Url" - 00:00:00.0038781
+---- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.0078354
+---- "WebApi: Getting calculated property value - IsDamMedia" - 00:00:00.0000062
+---- "WebApi: Getting calculated property value - Thumbnails" - 00:00:00.0021638
+--- "WebApi: Transforming database value" - 00:00:00.0161194
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000168
+---- "WebApi: Getting calculated property value - Url" - 00:00:00.0033830
+---- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.0076000
+---- "WebApi: Getting calculated property value - IsDamMedia" - 00:00:00.0000063
+---- "WebApi: Getting calculated property value - Thumbnails" - 00:00:00.0021906
+--- "WebApi: Transforming database value" - 00:00:00.0176062
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000138
+---- "WebApi: Getting calculated property value - Url" - 00:00:00.0033605
+---- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.0085791
+---- "WebApi: Getting calculated property value - IsDamMedia" - 00:00:00.0000071
+---- "WebApi: Getting calculated property value - Thumbnails" - 00:00:00.0027830
+--- "Unknown" - 00:00:00.1150750
+Total: 00:00:00.5391559

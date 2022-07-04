@@ -1,0 +1,12 @@
+- "WebApi: Action executed - GET" - 00:00:00.7765399
+-- "Extend metadata container. Module: (Telerik.Sitefinity.Personalization.Impl.Data.OpenAccessPersonalizationDataProvider)." - 00:00:00.7239220
+--- "Update meta data. MetadataSource: PersonalizationFluentMetadataSource" - 00:00:00.7221753
+---- "Aggregation" - 00:00:00.5408080
+----- "Extend" - 00:00:00.5408033
+------ "Prepare mappings for PersonalizationFluentMetadataSource" - 00:00:00.0586172
+------- "Create meta cache" - 00:00:00.0344316
+------ "Unknown" - 00:00:00.4821861
+---- "ReplaceMetadata" - 00:00:00.1767726
+---- "Upgrade provider" - 00:00:00.0010888
+-- "Unknown" - 00:00:00.0526179
+Total: 00:00:00.7765399

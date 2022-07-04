@@ -1,0 +1,168 @@
+----------------------------------------
+ActivityId: 09a00ec1-9be9-4e5b-a315-be385a14b93f
+
+Timestamp: 7/4/2022 5:32:27 PM
+
+Message: An error was encountered while unlocking dynamic item of type: 'newsitems'. Error: 'The item with key '6614b776-d10e-42de-9036-a3a078f4b618' was not found'
+Error: An error was encountered while unlocking dynamic item of type: 'newsitems'. Error: 'The item with key '6614b776-d10e-42de-9036-a3a078f4b618' was not found'
+    at n._error (https://localhost:5001/adminapp/main.8b1a31d44edcca477259.js:2:2150517)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:9981)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:9345)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+
+Category: WebClientLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: LAPTOP-I8FOB9EQ
+
+App Domain: /LM/W3SVC/2/ROOT-1-133013895618900398
+
+ProcessId: 38428
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:42048
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+ActivityId: bd9a094e-07f8-45b8-a9a3-b5d045688b27
+
+Timestamp: 7/4/2022 5:32:28 PM
+
+Message: An error was encountered while unlocking dynamic item of type: 'newsitems'. Error: 'The item with key '6614b776-d10e-42de-9036-a3a078f4b618' was not found'
+Error: An error was encountered while unlocking dynamic item of type: 'newsitems'. Error: 'The item with key '6614b776-d10e-42de-9036-a3a078f4b618' was not found'
+    at n._error (https://localhost:5001/adminapp/main.8b1a31d44edcca477259.js:2:2150517)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:9981)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:9345)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+
+Category: WebClientLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: LAPTOP-I8FOB9EQ
+
+App Domain: /LM/W3SVC/2/ROOT-1-133013895618900398
+
+ProcessId: 38428
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:42048
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+ActivityId: b4deaacc-7647-4393-b69a-a707c1da99ea
+
+Timestamp: 7/4/2022 5:32:29 PM
+
+Message: An error was encountered while unlocking dynamic item of type: 'newsitems'. Error: 'The item with key '6614b776-d10e-42de-9036-a3a078f4b618' was not found'
+Error: An error was encountered while unlocking dynamic item of type: 'newsitems'. Error: 'The item with key '6614b776-d10e-42de-9036-a3a078f4b618' was not found'
+    at n._error (https://localhost:5001/adminapp/main.8b1a31d44edcca477259.js:2:2150517)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:9981)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:9345)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+
+Category: WebClientLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: LAPTOP-I8FOB9EQ
+
+App Domain: /LM/W3SVC/2/ROOT-1-133013895618900398
+
+ProcessId: 38428
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:56316
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+ActivityId: e1352f0f-c3e8-469b-9442-c95dc0ea2ece
+
+Timestamp: 7/4/2022 5:32:34 PM
+
+Message: An error was encountered while unlocking dynamic item of type: 'newsitems'. Error: 'The item with key '6614b776-d10e-42de-9036-a3a078f4b618' was not found'
+Error: An error was encountered while unlocking dynamic item of type: 'newsitems'. Error: 'The item with key '6614b776-d10e-42de-9036-a3a078f4b618' was not found'
+    at n._error (https://localhost:5001/adminapp/main.8b1a31d44edcca477259.js:2:2150517)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:9981)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:9345)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7596)
+    at n.value (https://localhost:5001/adminapp/vendor.2287f67c4a90da49b38a.js:2:7955)
+
+Category: WebClientLog
+
+Priority: -1
+
+EventId: 1
+
+Severity: Information
+
+Title:
+
+Machine: LAPTOP-I8FOB9EQ
+
+App Domain: /LM/W3SVC/2/ROOT-1-133013895618900398
+
+ProcessId: 38428
+
+Process Name: C:\Program Files\IIS Express\iisexpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:56832
+
+Extended Properties: 
+----------------------------------------

@@ -1,0 +1,24 @@
+- "WebApi: Executing a batch request" - 00:00:03.4393157
+-- "WebApi: Action executed - POST" - 00:00:03.2776453
+--- "Load Workflow for path: ~/DefaultWorkflows/AnyMediaContentApprovalWorkflow.xamlx" - 00:00:00.1799777
+--- "WebApi: Executing workflow operation - SaveDraft" - 00:00:02.5935568
+---- "Message Workflow" - 00:00:02.5935515
+----- "Run workflow activity" - 00:00:02.5934821
+--- "WebApi: Transforming database value" - 00:00:00.0529390
+---- "WebApi: Getting calculated property value - Provider" - 00:00:00.0000191
+---- "WebApi: Getting calculated property value - Url" - 00:00:00.0063008
+---- "WebApi: Getting calculated property value - ThumbnailUrl" - 00:00:00.0113471
+---- "WebApi: Getting calculated property value - IsDamMedia" - 00:00:00.0000079
+---- "WebApi: Getting calculated property value - Breadcrumb" - 00:00:00.0002552
+---- "WebApi: Getting calculated property value - CreatedBy" - 00:00:00.0000980
+---- "WebApi: Getting calculated property value - LastModifiedBy" - 00:00:00.0000084
+---- "WebApi: Getting calculated property value - AvailableLanguages" - 00:00:00.0000144
+---- "WebApi: Getting calculated property value - LibraryTitle" - 00:00:00.0013987
+---- "WebApi: Getting calculated property value - Thumbnails" - 00:00:00.0026934
+---- "WebApi: Getting calculated property value - LockedStatus" - 00:00:00.0053013
+---- "WebApi: Getting calculated property value - DisplayStatus" - 00:00:00.0077591
+---- "WebApi: Getting calculated property value - FirstPublished" - 00:00:00.0030134
+---- "WebApi: Getting calculated property value - LastPublished" - 00:00:00.0026601
+--- "Unknown" - 00:00:00.4511718
+-- "WebApi: Action executed - POST" - 00:00:00.1601507
+Total: 00:00:03.4393157
