@@ -8,45 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Renderer
 build_property.RootNamespace = Renderer
-build_property.ProjectDir = E:\Projects\2022\Progress\Code\Core\Core Renderer\Renderer\Renderer\
+build_property.ProjectDir = C:\Users\Administrator\Source\Repos\Sitefinity\Core Renderer\Renderer\Renderer\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Projects\2022\Progress\Code\Core\Core Renderer\Renderer\Renderer
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Source\Repos\Sitefinity\Core Renderer\Renderer\Renderer
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/Shared/Components/HelloWorld/Default.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/Components/CustomNews/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ3VzdG9tTmV3c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/Components/HelloWorld/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVsbG9Xb3JsZFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/Shared/Components/SitefinityContentList/Details.EventsCustom.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/Components/NewsAPI/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmV3c0FQSVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/Components/SitefinityContentList/Details.EventsCustom.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUNvbnRlbnRMaXN0XERldGFpbHMuRXZlbnRzQ3VzdG9tLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/Shared/Components/SitefinityContentList/List.EventsListCustom.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/Components/SitefinityContentList/List.DynamicSpeakers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUNvbnRlbnRMaXN0XExpc3QuRHluYW1pY1NwZWFrZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/Components/SitefinityContentList/List.EventsListCustom.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUNvbnRlbnRMaXN0XExpc3QuRXZlbnRzTGlzdEN1c3RvbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/Shared/Error.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/Components/SpeakersContentList/List.SpeakersListHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3BlYWtlcnNDb250ZW50TGlzdFxMaXN0LlNwZWFrZXJzTGlzdEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/_ViewImports.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/_ViewStart.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/Shared/SitefinityTemplate.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/SitefinityTemplate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpdGVmaW5pdHlUZW1wbGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-x0fqrsd7lv
 
-[E:/Projects/2022/Progress/Code/Core/Core Renderer/Renderer/Renderer/Views/Shared/_Layout.cshtml]
+[C:/Users/Administrator/Source/Repos/Sitefinity/Core Renderer/Renderer/Renderer/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k5dupl5ih2
